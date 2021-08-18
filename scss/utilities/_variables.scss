@@ -2,21 +2,23 @@
 
 $white          : #fff;
 $black          : #000;
-$black-lighten: Lighten($black, 20%)
+$black-lighten: lighten($black, 20%);
 
 $grey           : #878787;
-$grey-lighten:  Lighten($grey, 20%)
+$grey-lighten:  lighten($grey, 20%);
 
 $regent-st-blue : #add8e6;
-$regent-st-blue-lighten: Lighten($regent-st-blue, 20%)
+$regent-st-blue-lighten: lighten($regent-st-blue, 20%);
 
 $river-bed      : #48525c;
-$river-bed-lighten: Lighten($river-bed, 20%)
+$river-bed-lighten: lighten($river-bed, 20%);
 
 
 $yellow-orange  : #ffa949;
-$yellow-orange-lighten: Lighten($yellow-orange, 20%)
+$yellow-orange-lighten: lighten($yellow-orange, 20%);
 
+$apricot        : #ED8E61;
+$apricot-lighten: lighten($apricot, 20%);
 
 
 
